@@ -1,0 +1,6 @@
+venv/
+.idea/
+*.pyc
+config.py
+forex_bot_hyperparameter_tuning/
+*.db
